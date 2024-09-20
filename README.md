@@ -53,8 +53,7 @@
 ---
 
 ## 4. Transformer Model
-(Upcoming Section: Stay Tuned!)
+Check README file under transformer folder for a detailed writeup
 
 ---
 
-This README.md file highlights key topics and processes involved in NLP and deep learning, making them easier to follow.
